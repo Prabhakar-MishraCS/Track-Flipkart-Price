@@ -39,7 +39,7 @@ while True:
         hour = curr_day.strftime("%H")
         min1 = curr_day.strftime("%M")
         min_updated = int(min1) + 2
-        pywhatkit.sendwhatmsg ('+916363693577', "Within the budget!, Khareed lo Mic",int(hour),min_updated)
+        pywhatkit.sendwhatmsg ('+91**********', "Within the budget!, Khareed lo Mic",int(hour),min_updated)
 
 
         exit()
